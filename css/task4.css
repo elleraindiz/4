@@ -121,7 +121,7 @@ h2{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     max-width: 1300px;
-    margin: 25px autro;
+    margin: 25px auto;
     gap: 20px;
 }
 .card img{
@@ -165,7 +165,7 @@ font-size: 40px;
 }
     .contact-us{
         max-width: 940px;
-        margin: 100 auto;
+        margin: 100px auto;
         padding: 30px;
     }
 
